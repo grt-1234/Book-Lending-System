@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1039107037853",
+    "firebase_url": "https://samplebooks-f55b1.firebaseio.com",
+    "project_id": "samplebooks-f55b1",
+    "storage_bucket": "samplebooks-f55b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039107037853:android:8c17acf37cc4bfb3",
+        "android_client_info": {
+          "package_name": "com.example.raviteja.samplebooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039107037853-tfuhnupg387p4rq1g4f9ai4qd2d66p2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3BeYdgicNYFNxK0Tm17YzrFkW3dbjlb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

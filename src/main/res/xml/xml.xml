@@ -1,0 +1,32 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="Notifications"
+        android:title="Enable message Notifications">
+
+        <SwitchPreferenceCompat
+            android:icon="@drawable/notifications"
+            app:key="notifications"
+            app:title="Enable message notifications"/>
+
+
+    </PreferenceCategory>
+
+    <Preference
+        android:icon="@drawable/info"
+        android:key="About"
+        android:title="About" />
+
+    <Preference
+        android:icon="@drawable/logout"
+        android:key="Logout"
+        android:title="Logout" />
+
+
+    <Preference
+        app:key="feedback"
+        app:title="Send feedback"
+        app:summary="Report technical issues or suggest new features"/>
+
+</PreferenceScreen>
